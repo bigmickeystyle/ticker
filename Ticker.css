@@ -1,0 +1,21 @@
+
+.link-box{
+  margin-left: 30px;
+  margin-right: 30px;
+  position: absolute;
+  overflow: hidden;
+  display: inline-table;
+}
+
+.link {
+    font-size: 15px;
+    font-family: AmericanTypewriter;
+    text-decoration: none;
+    color:black;
+    overflow: hidden;
+}
+
+.link:hover {
+    color: #3984ac;
+    font-style: oblique;
+}
